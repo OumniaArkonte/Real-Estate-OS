@@ -1,0 +1,47 @@
+Appartement à Rabat - Agdal
+Type: Appartement
+Surface: 95 m²
+Chambres: 3
+Salles de bain: 2
+Balcon: Oui
+Parking: Non
+Année de construction: 2015
+Prix moyen par m²: 14 500 MAD
+Prix total estimé: 1 377 500 MAD
+Notes: Proche des transports publics, Bon potentiel locatif
+
+Appartement à Tanger - Malabata
+Type: Appartement
+Surface: 110 m²
+Chambres: 2
+Salles de bain: 2
+Balcon: Oui
+Parking: Oui
+Année de construction: 2019
+Prix moyen par m²: 13 000 MAD
+Prix total estimé: 1 430 000 MAD
+Notes: Vue sur mer, Résidence sécurisée avec piscine
+
+Villa à Fès - Route d’Imouzzer
+Type: Villa
+Surface: 320 m²
+Chambres: 5
+Salles de bain: 4
+Jardin: Oui
+Piscine: Non
+Année de construction: 2012
+Prix moyen par m²: 9 500 MAD
+Prix total estimé: 3 040 000 MAD
+Notes: Quartier résidentiel calme, Proche écoles internationales
+
+Studio à Marrakech - Hivernage
+Type: Studio
+Surface: 45 m²
+Chambres: 1
+Salles de bain: 1
+Balcon: Non
+Parking: Oui
+Année de construction: 2021
+Prix moyen par m²: 17 000 MAD
+Prix total estimé: 765 000 MAD
+Notes: Idéal pour investissement locatif, Résidence moderne avec ascenseur

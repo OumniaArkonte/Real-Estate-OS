@@ -1,0 +1,66 @@
+[
+  {
+    "model_name": "AVM_Sample",
+    "features_used": {
+      "area": 120,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "year_built": 2020
+    },
+    "predicted_value": 225000,
+    "confidence": 0.87,
+    "explanations": {
+      "ppsf_adjustment": 0,
+      "comparables_delta": 0
+    },
+    "run_at": "2025-10-03T09:00:00"
+  },
+  {
+    "model_name": "Comparables_Adjusted",
+    "features_used": {
+      "area": 85,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "year_built": 2017
+    },
+    "predicted_value": 155000,
+    "confidence": 0.81,
+    "explanations": {
+      "ppsf_adjustment": 500,
+      "comparables_delta": -2000
+    },
+    "run_at": "2025-10-03T09:05:00"
+  },
+  {
+    "model_name": "ML_Regression_v1",
+    "features_used": {
+      "area": 350,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "year_built": 2015
+    },
+    "predicted_value": 720000,
+    "confidence": 0.91,
+    "explanations": {
+      "ppsf_adjustment": 1200,
+      "comparables_delta": 15000
+    },
+    "run_at": "2025-10-03T09:10:00"
+  },
+  {
+    "model_name": "AVM_Sample",
+    "features_used": {
+      "area": 45,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "year_built": 2021
+    },
+    "predicted_value": 90000,
+    "confidence": 0.79,
+    "explanations": {
+      "ppsf_adjustment": -300,
+      "comparables_delta": 1000
+    },
+    "run_at": "2025-10-03T09:15:00"
+  }
+]

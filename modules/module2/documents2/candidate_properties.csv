@@ -1,0 +1,21 @@
+id,address,price,area,type
+1,Appartement Casablanca - Bourgogne,1800000,120,Appartement
+2,Appartement Casablanca - Maarif,1147500,85,Appartement
+3,Villa Rabat - Agdal,3500000,300,Villa
+4,Studio Marrakech - Gueliz,750000,45,Studio
+5,Appartement Tanger - Centre,950000,70,Appartement
+6,Villa Casablanca - Ain Diab,5000000,400,Villa
+7,Appartement Rabat - Hassan,1300000,95,Appartement
+8,Studio Casablanca - Maarif,600000,40,Studio
+9,Duplex Bouskoura - Green Town,1800000,110,Duplex
+10,Maison El Jadida - Plage,1750000,130,Maison
+11,Appartement Agadir - Founty,1200000,80,Appartement
+12,Villa Marrakech - Palmeraie,4200000,350,Villa
+13,Studio Agdal - Rabat,850000,48,Studio
+14,Appartement Sidi Maarouf - Casablanca,950000,65,Appartement
+15,Appartement Casablanca - Gauthier,2100000,140,Appartement
+16,Studio Casablanca - Gauthier,800000,50,Studio
+17,Maison Tanger - Malabata,2200000,160,Maison
+18,Appartement Marrakech - Hivernage,1600000,100,Appartement
+19,Duplex Casablanca - Anfa,2500000,150,Duplex
+20,Studio Rabat - Agdal,900000,42,Studio

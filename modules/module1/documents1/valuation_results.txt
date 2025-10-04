@@ -1,0 +1,52 @@
+Appartement à Casablanca - Bourgogne
+Type: Appartement
+Surface: 120 m²
+Chambres: 2
+Salles de bain: 1
+Balcon: Oui
+Parking: Oui
+Année de construction: 2020
+Prix moyen par m²: 14 500 MAD
+Prix total estimé: 1 740 000 MAD
+Notes: Appartement lumineux avec vue dégagée, Proche commerces et transport
+
+---
+Villa à Casablanca - Ain Diab
+Type: Villa
+Surface: 350 m²
+Chambres: 4
+Salles de bain: 3
+Balcon: Oui
+Parking: Oui
+Jardin: Oui
+Piscine: Non
+Année de construction: 2015
+Prix moyen par m²: 21 000 MAD
+Prix total estimé: 7 350 000 MAD
+Notes: Grande villa familiale avec jardin, Quartier résidentiel calme
+
+---
+Studio à Casablanca - Gauthier
+Type: Studio
+Surface: 45 m²
+Chambres: 1
+Salles de bain: 1
+Balcon: Non
+Parking: Non
+Année de construction: 2021
+Prix moyen par m²: 16 500 MAD
+Prix total estimé: 742 500 MAD
+Notes: Idéal pour étudiant ou jeune actif, Résidence moderne avec ascenseur
+
+---
+Appartement à Casablanca - Maarif
+Type: Appartement
+Surface: 85 m²
+Chambres: 2
+Salles de bain: 2
+Balcon: Non
+Parking: Oui
+Année de construction: 2017
+Prix moyen par m²: 13 500 MAD
+Prix total estimé: 1 147 500 MAD
+Notes: Quartier dynamique, proche des commerces, Résidence sécurisée

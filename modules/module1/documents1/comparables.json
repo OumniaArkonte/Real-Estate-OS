@@ -1,0 +1,28 @@
+{
+    "comparables": [
+        {
+            "address": "122 Main St", 
+            "city": "Anytown", 
+            "state": "Anystate", 
+            "zipcode": "12345", 
+            "price": 245000, 
+            "bedrooms": 3, 
+            "bathrooms": 2, 
+            "square_footage": 1650, 
+            "year_built": 2000, 
+            "lot_size": 0.3
+        },
+        {
+            "address": "126 Main St", 
+            "city": "Anytown", 
+            "state": "Anystate", 
+            "zipcode": "12345", 
+            "price": 260000, 
+            "bedrooms": 3, 
+            "bathrooms": 2, 
+            "square_footage": 1550, 
+            "year_built": 1999, 
+            "lot_size": 0.31
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+[
+    {
+      "address": "Appartement à Casablanca - Maarif",
+      "type": "Appartement",
+      "area": 85,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balcony": false,
+      "parking": true,
+      "year_built": 2017,
+      "price_per_sqm": 13500,
+      "total_price": 1147500,
+      "notes": [
+        "Quartier dynamique, proche des commerces",
+        "Résidence sécurisée"
+      ]
+    },
+    {
+      "address": "Villa à Casablanca - Californie",
+      "type": "Villa",
+      "area": 400,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "garden": true,
+      "pool": true,
+      "year_built": 2015,
+      "price_per_sqm": 20000,
+      "total_price": 8000000,
+      "notes": [
+        "Quartier résidentiel haut standing",
+        "Proximité écoles internationales"
+      ]
+    },
+    {
+      "address": "Studio à Casablanca - Gauthier",
+      "type": "Studio",
+      "area": 50,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balcony": true,
+      "parking": false,
+      "year_built": 2022,
+      "price_per_sqm": 16000,
+      "total_price": 800000,
+      "notes": [
+        "Idéal pour investissement locatif",
+        "Résidence moderne avec ascenseur"
+      ]
+    }
+  
+  ,
+    {
+      "address": "Appartement à Casablanca - Racine",
+      "type": "Appartement",
+      "area": 110,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balcony": true,
+      "parking": true,
+      "year_built": 2018,
+      "price_per_sqm": 17000,
+      "total_price": 1870000,
+      "notes": [
+        "Quartier résidentiel recherché",
+        "Proche des écoles et commodités"
+      ]
+    },
+    {
+      "address": "Appartement à Casablanca - Anfa",
+      "type": "Appartement",
+      "area": 95,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balcony": false,
+      "parking": true,
+      "year_built": 2016,
+      "price_per_sqm": 15500,
+      "total_price": 1472500,
+      "notes": [
+        "Résidence sécurisée avec concierge",
+        "Vue partielle sur mer"
+      ]
+    },
+    {
+      "address": "Villa à Casablanca - Oasis",
+      "type": "Villa",
+      "area": 350,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garden": true,
+      "pool": false,
+      "year_built": 2012,
+      "price_per_sqm": 18500,
+      "total_price": 6475000,
+      "notes": [
+        "Grand jardin arboré",
+        "Quartier calme et familial"
+      ]
+    },
+    {
+      "address": "Studio à Casablanca - Palmier",
+      "type": "Studio",
+      "area": 45,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balcony": true,
+      "parking": false,
+      "year_built": 2021,
+      "price_per_sqm": 15000,
+      "total_price": 675000,
+      "notes": [
+        "Proche tramway et commerces",
+        "Idéal jeune actif ou étudiant"
+      ]
+    }
+]

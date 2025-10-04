@@ -1,0 +1,60 @@
+[
+  {
+    "address": "Appartement à Casablanca - Bourgogne",
+    "type": "Appartement",
+    "area": 120,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "balcony": true,
+    "parking": true,
+    "year_built": 2020,
+    "notes": [
+      "Appartement lumineux avec vue dégagée",
+      "Proche commerces et transport"
+    ]
+  },
+  {
+    "address": "Villa à Casablanca - Ain Diab",
+    "type": "Villa",
+    "area": 350,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "balcony": true,
+    "parking": true,
+    "garden": true,
+    "pool": false,
+    "year_built": 2015,
+    "notes": [
+      "Grande villa familiale avec jardin",
+      "Quartier résidentiel calme"
+    ]
+  },
+  {
+    "address": "Studio à Casablanca - Gauthier",
+    "type": "Studio",
+    "area": 45,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "balcony": false,
+    "parking": false,
+    "year_built": 2021,
+    "notes": [
+      "Idéal pour étudiant ou jeune actif",
+      "Résidence moderne avec ascenseur"
+    ]
+  },
+  {
+    "address": "Appartement à Casablanca - Maarif",
+    "type": "Appartement",
+    "area": 85,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balcony": false,
+    "parking": true,
+    "year_built": 2017,
+    "notes": [
+      "Quartier dynamique, proche des commerces",
+      "Résidence sécurisée"
+    ]
+  }
+]

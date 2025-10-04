@@ -1,0 +1,19 @@
+Comparables
+
+1. 122 Main St, Anytown, Anystate 12345
+Prix : 245,000 USD
+Chambres : 3
+Salles de bain : 2
+Surface habitable : 1,650 sqft
+Année de construction : 2000
+Taille du terrain : 0.3 acre
+
+---
+
+2. 126 Main St, Anytown, Anystate 12345
+Prix : 260,000 USD
+Chambres : 3
+Salles de bain : 2
+Surface habitable : 1,550 sqft
+Année de construction : 1999
+Taille du terrain : 0.31 acre
