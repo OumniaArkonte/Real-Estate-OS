@@ -28,6 +28,7 @@ load_dotenv()
 # ----------------------------
 # Knowledge Base Setup
 # ----------------------------
+"""
 db_url = "postgresql+psycopg://ai:ai@localhost:5432/investment"
 
 markdown_reader = MarkdownReader(name="Investment Analysis Reader")
@@ -43,6 +44,7 @@ knowledge_base = Knowledge(
     vector_db=vector_db,
     max_results=5
 )
+"""
 
 # =============================
 # Agent 1: ROI Calculator Agent
@@ -71,7 +73,7 @@ ROICalculatorAgent = Agent(
     - roi_metrics
     """,
     markdown=True,
-    knowledge=knowledge_base
+    
 )
 
 # =============================
@@ -100,7 +102,7 @@ RiskAnalysisAgent = Agent(
     - risk_assessment
     """,
     markdown=True,
-    knowledge=knowledge_base
+   
 )
 
 # =============================
@@ -130,7 +132,7 @@ CashFlowProjectionAgent = Agent(
     - cash_flow_projections
     """,
     markdown=True,
-    knowledge=knowledge_base
+    
 )
 
 # =============================

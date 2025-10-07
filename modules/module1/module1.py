@@ -42,6 +42,7 @@ load_dotenv()
 # ----------------------------
 # Knowledge Base
 # ----------------------------
+"""
 db_url = "postgresql+psycopg://ai:ai@localhost:5432/ai"
 
 markdown_reader = MarkdownReader(name="Property Valuation Reader")
@@ -57,7 +58,7 @@ knowledge_base = Knowledge(
     vector_db=vector_db,
     max_results=5
 )
-
+"""
 # =============================
 # Agent 1: Data Collector Agent
 # =============================
@@ -99,7 +100,7 @@ DataCollectorAgent = Agent(
     - source_metadata
     """,
     markdown=True,
-    knowledge=knowledge_base,
+    knowledge=None,
 )
 
 # =============================
@@ -139,7 +140,7 @@ ValuationModelAgent = Agent(
     - notes
     """,
     markdown=True,
-    knowledge=knowledge_base,
+    knowledge=None,
 )
 
 # =============================
@@ -176,7 +177,7 @@ ReportGeneratorAgent = Agent(
     - recommendations (optionnel)
     """,
     markdown=True,
-    knowledge=knowledge_base,
+    knowledge=None,
 )
 
 # =============================
@@ -212,7 +213,7 @@ PropertyValuationTeam = Team(
     - Traçabilité: sources, paramètres, versionnement des datasets/modèles, date d'analyse.
     """,
     markdown=True,
-    knowledge=knowledge_base,
+    knowledge=None,
 )
 
 if __name__ == "__main__":
