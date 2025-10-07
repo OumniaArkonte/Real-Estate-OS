@@ -3,7 +3,6 @@
 import os
 from pathlib import Path
 from dotenv import load_dotenv
-
 from agno.agent import Agent
 from agno.team.team import Team
 from agno.models.mistral import MistralChat
